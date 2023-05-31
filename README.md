@@ -1,2 +1,5 @@
-# mental_health
-Using SQL to perform exploratory data analysis on a dataset around student mental health.
+# Analyzing Students' Mental Health in SQL
+## Description
+Studying abroad can be both exciting and difficult. But what might be contributing to this? One university decided to find out!
+
+Use our PostgreSQL skills to explore the students database from an international university and find out what factors may impact students' mental health.
